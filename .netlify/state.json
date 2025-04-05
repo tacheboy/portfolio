@@ -1,0 +1,21 @@
+{
+	"siteId": "d4f18340-ba12-46be-b5f1-0aa05ec48504",
+	"geolocation": {
+		"data": {
+			"city": "Bhubaneswar",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "OD",
+				"name": "Odisha"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 20.2706,
+			"longitude": 85.8334,
+			"postalCode": "752050"
+		},
+		"timestamp": 1743153620465
+	}
+}
